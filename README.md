@@ -1,5 +1,4 @@
 # Inner-Speech-Recognition
-# Inner Speech Recognition Dataset
 
 ## Abstract
 
